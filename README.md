@@ -1,26 +1,26 @@
-<h1 align="center">👨‍💻 Hello World! 👋</h1>
+<h1 align="center">👨‍💻 Hello World!</h1>
 
 <h1 align="center">Eu sou Marcos Gomes</h1>
-<h3 align="center">Desenvolvedor • Automação • IA aplicada a processos</h3>
+<h3 align="center">Desenvolvedor • Automação • Backend & Web</h3>
 
 <p align="center">
-  🚀 Apaixonado por tecnologia, automação de processos e desenvolvimento de soluções que resolvem problemas reais.
+  🚀 Apaixonado por tecnologia, desenvolvimento de sistemas e automação de processos.
 </p>
 
 ---
 
 ## 🧠 Sobre mim
 
-💼 Atualmente trabalho com **automação de processos, integração com SharePoint, Power Automate, IA e desenvolvimento de sistemas**.  
-🔧 Desenvolvo soluções para **gestão de documentos, certificados, PDFs e automação de rotinas empresariais**.  
-📚 Sempre aprendendo mais sobre **backend, cloud, IA e sistemas corporativos**.
+💼 Trabalho com **desenvolvimento de sistemas, automação de processos e integração de dados**.  
+🔧 Crio soluções para **gestão de documentos, sistemas corporativos e automações inteligentes**.  
+📚 Estou sempre aprendendo mais sobre **backend, banco de dados e desenvolvimento web**.
 
 ---
 
 ## 🛠️ Tecnologias que utilizo
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cs,js,html,css,azure,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=js,java,html,css,mysql,git,github" />
 </p>
 
 ---
@@ -47,15 +47,15 @@
 ## 👾 Pac-Man
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/ariassc/ariassc/master/pacman.gif" width="400"/>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="300"/>
+  <b>Game on. Coding on.</b>
 </p>
 
 ---
 
 <p align="center">
-  ⭐ Se gostou do meu perfil, não esqueça de deixar uma estrela nos repositórios!
+  ⭐ Se curtiu meu perfil, deixa uma estrela nos repositórios!
 </p>
