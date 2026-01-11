@@ -1,25 +1,35 @@
 # Hello, World.
 
 ## Marcos Gomes  
-**Full Stack Developer — Java & Angular**
+**Java Back-end Developer**
 
-Sou desenvolvedor full stack com foco em **aplicações web, automação de processos e sistemas corporativos**.  
-Atuo no desenvolvimento de soluções completas, integrando **back-end, front-end e banco de dados** para atender demandas reais de negócio.
+Sou desenvolvedor especializado em **back-end com Java**, com foco em **APIs, sistemas corporativos e automação de processos**.  
+Atuo no desenvolvimento de soluções robustas, seguras e escaláveis, integrando regras de negócio, banco de dados e serviços.
 
 ---
 
 ## Perfil Profissional
 
-Experiência no desenvolvimento de **sistemas empresariais**, **APIs**, **interfaces web modernas** e **automação de fluxos de trabalho**.  
-Tenho atuação tanto na camada **servidor (Java, MySQL)** quanto na camada **cliente (Angular, TypeScript, HTML e CSS)**, garantindo aplicações robustas, seguras e escaláveis.
+Experiência na criação de **sistemas empresariais**, **serviços REST**, **integrações** e **processamento de dados**.  
+Tenho forte atuação em **Java e MySQL**, trabalhando com **arquitetura de back-end, persistência de dados e lógica de negócio**.
 
-Busco sempre aplicar **boas práticas de engenharia de software**, organização de código e integração entre sistemas.
+Possuo também conhecimento em **front-end com Angular e TypeScript**, o que facilita a construção de soluções completas e bem integradas.
 
 ---
 
 ## Stack Tecnológica
 
-<img src="https://skillicons.dev/icons?i=java,js,ts,angular,html,css,mysql,git,github" />
+<img src="https://skillicons.dev/icons?i=java,mysql,js,ts,angular,git,github" />
+
+---
+
+## Áreas de atuação
+
+- Desenvolvimento de **APIs REST**
+- Integração entre sistemas
+- Banco de dados e persistência
+- Automação de processos
+- Sistemas corporativos
 
 ---
 
