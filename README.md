@@ -1,23 +1,22 @@
 # 👨‍💻 Hello World!
 
 ## Marcos Gomes  
-Desenvolvedor • Automação • Backend & Web  
+**Desenvolvedor Full Stack — Java & Angular**
 
-🚀 Apaixonado por tecnologia, desenvolvimento de sistemas e automação de processos.
+🚀 Desenvolvedor focado em **aplicações web, automação de processos e sistemas corporativos**, criando soluções completas do back-end ao front-end.
 
 ---
 
 ## 🧠 Sobre mim
 
-Trabalho com **desenvolvimento de sistemas, automação de processos e integração de dados**.  
-Crio soluções para **gestão de documentos, sistemas corporativos e automações inteligentes**.  
-Estou sempre aprendendo mais sobre **backend, banco de dados e desenvolvimento web**.
+Trabalho com **desenvolvimento de sistemas full stack**, atuando tanto no **back-end (Java, MySQL, APIs)** quanto no **front-end (Angular, TypeScript, HTML e CSS)**.  
+Tenho experiência em **automação de processos, integração de dados e sistemas empresariais**, sempre buscando criar soluções eficientes, escaláveis e fáceis de usar.
 
 ---
 
 ## 🛠️ Tecnologias
 
-<img src="https://skillicons.dev/icons?i=js,java,html,css,mysql,git,github" />
+<img src="https://skillicons.dev/icons?i=java,js,ts,angular,html,css,mysql,git,github" />
 
 ---
 
